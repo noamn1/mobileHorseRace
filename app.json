@@ -1,0 +1,12 @@
+{
+  "name": "mobileHorseRace",
+  "displayName": "mobileHorseRace",
+  "expo": {
+    "name": "mobileHorseRace",
+    "slug": "mobileHorseRace",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
